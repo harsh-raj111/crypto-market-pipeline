@@ -100,9 +100,7 @@ pip install -r requirements.txt
 
  3. Add your API key
 python
-# In scripts/stock.ipynb
-# Replace this line:
-key = "YOUR_API_KEY_HERE"
+
 # Get free key at coinmarketcap.com
 
 4. Set up MySQL
